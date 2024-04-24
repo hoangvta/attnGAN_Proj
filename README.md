@@ -1,1 +1,1 @@
-# attnGAN_Proj
+# AttnGAN Implementation
