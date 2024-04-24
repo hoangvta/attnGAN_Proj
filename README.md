@@ -1,1 +1,1 @@
-# AttnGAN Implementation
+# AttnGAN Re-Implementation
